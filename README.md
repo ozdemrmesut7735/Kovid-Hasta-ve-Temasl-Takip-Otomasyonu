@@ -1,4 +1,5 @@
-# Kovid-Hasta-ve-Temasl-Takip-Otomasyonu
+# Mesut Özdemir 2312721053 Kovid-Hasta-ve-Temasl-Takip-Otomasyonu
+Mesut Özdemir 2312721053
 #include <iostream>
 #include <fstream>
 #include <cstring>
